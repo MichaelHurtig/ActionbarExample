@@ -11,7 +11,7 @@ import android.widget.EditText;
 
 public class ActionbarExample extends ActionBarActivity {
 
-    public final static String EXTRA_MESSAGE = "michaelhurtig.ActionbarExample.MESSAGE";
+    public final static String EXTRA_MESSAGE = ".MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
