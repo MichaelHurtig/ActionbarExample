@@ -15,7 +15,6 @@ import android.widget.TextView;
 
 
 public class DisplayMessageActivity extends ActionBarActivity {
-    public void BOB(){//BOB is just a test to see if branching works the way that I think it does.}
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
